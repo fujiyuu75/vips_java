@@ -27,6 +27,7 @@ public class VipsTester {
 		}
 
 		String url = args[0];
+//		String url = "https://sports.yahoo.co.jp/";
 
 		try
 		{
